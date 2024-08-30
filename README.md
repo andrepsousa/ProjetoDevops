@@ -1,4 +1,3 @@
-# ProjetoDevops
-Projeto realizado na aula de DevOps
+# git-tests
 
-1 - Realizando primeiro commit do projeto
+Repositório para testes de comandos git
